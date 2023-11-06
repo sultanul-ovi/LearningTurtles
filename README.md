@@ -10,7 +10,9 @@ School Management System
 
 ## What This Project Does
 This project enables users to:
-
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/LearningTurtles/blob/master/images/overview.png"  width="640" height="320" />
+</h1>
 - **Manage Exams**: Create, update, and delete exam endpoints, allowing students to take exams online.
 - **Generate Reports**: Automatically generate and distribute exam reports, analyzing student performance.
 - **Class Promotion**: Handle the advancement of students from one class to another after successful exam completion.
