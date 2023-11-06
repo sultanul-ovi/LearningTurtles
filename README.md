@@ -41,22 +41,22 @@ It is developed using Node.js and leverages MongoDB for data storage. The system
 
 ## Features
 
-### Admin Dashboard
+#### Admin Dashboard
 - Register, suspend, and manage student profiles.
 - Assign teachers to specific classes and programs.
 - Publish exam results and control access to them.
 
-### Teacher Portal
+#### Teacher Portal
 - Access assigned classes and programs.
 - Input and manage exam scores.
 - View student progress and reports.
 
-### Student Portal
+#### Student Portal
 - Enroll in classes and programs.
 - Take exams and view results.
 - Access class materials and schedules.
 
-### System Features
+#### System Features
 - Secure login and user authentication.
 - Role-based permissions for students, teachers, and admin users.
 - Real-time updates and notifications.
